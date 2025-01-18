@@ -1,0 +1,9 @@
+{
+  "files": {
+    "main.js": "/website-deployment/static/js/main.31d6cfe0.js",
+    "index.html": "/website-deployment/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.31d6cfe0.js"
+  ]
+}
